@@ -1,15 +1,15 @@
 [![BannerHead](https://media.licdn.com/dms/image/D4D16AQGU_8VEWm9Mig/profile-displaybackgroundimage-shrink_350_1400/0/1664482884676?e=1710979200&v=beta&t=w3xH8k2sw3KsOsB-lC4FRhxjcGRDAhpHthZYKb2q_Y0)](https://github.com/soumyaawasthi-work)
 <h1 align="center">Hi 👋, I'm Soumya Awasthi</h1>
 <h3 align="center">A Data Engineer navigating the Data Seas with Skill and Passion!</h3>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWxtNXFlcTVoanQ4bTV6ZjFiNWU2MHkxYTNoNGZ5OHZhcTIwZGc0aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JWuBH9rCO2uZuHBFpm/giphy.gif"></img>
+<img align="right" alt="Data for Breakfast" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWxtNXFlcTVoanQ4bTV6ZjFiNWU2MHkxYTNoNGZ5OHZhcTIwZGc0aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JWuBH9rCO2uZuHBFpm/giphy.gif"></img>
 
-- 🌱 I’m currently learning **Generative AI**
+- 🌱 I’m currently learning **Generative AI**.
 
-- 💬 Ask me about **Python, Statistical Analysis, SQL**
+- 💬 Ask me about **Python, Statistical Analysis, SQL**.
 
-- 📫 How to reach me **soumyaawasthi.work@gmail.com**
+- 📫 Reach me at **soumyaawasthi.work@gmail.com**.
 
-- ⚡ Fun fact **My interests other than coding include reading and traveling.**
+- ⚡ Fun fact: **I am on my path to becoming a Globetrotter!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
